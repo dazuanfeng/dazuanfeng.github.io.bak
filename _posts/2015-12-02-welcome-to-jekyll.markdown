@@ -8,6 +8,7 @@ categories: jekyll update
 ### 前后端跨域总结
 
 > 目前业界解决跨域问题一共有方案：
+
 ```
 1. 服务端nginx配置
 2. JSONP
