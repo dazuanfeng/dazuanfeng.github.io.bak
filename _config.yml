@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   服务端笔记一箩筐
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://dazuanfeng.github.io" # the base hostname & protocol for your site
-weibo_username: http://weibo.com/zhangzhuanfeng
+
 github_username:  yiyiboy2010
 
 # Build settings
