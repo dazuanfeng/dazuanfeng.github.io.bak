@@ -2,7 +2,9 @@
 <html>
 
   {% include head.html %}
-
+  <meta charset="utf-8" />
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
   <body>
 
     {% include header.html %}
